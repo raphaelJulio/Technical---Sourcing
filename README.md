@@ -33,4 +33,4 @@ I specialize in recruiting across the US, LATAM, and Europe with experience in:
 - Excel
 
 Let's connect!
-LinkedIn: https://www.linkedin.com/in/rafael-julio-barraza-919430125/
+LinkedIn: https://www.linkedin.com/in/rafael-julio-barraza-919430125/ ![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn-Recruiter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
